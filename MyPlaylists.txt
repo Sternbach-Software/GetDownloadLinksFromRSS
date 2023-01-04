@@ -1,0 +1,244 @@
+#350 – Betül Kaçar: Origin of Life, Ancient DNA, Panspermia, and Aliens
+#348 – Nathalie Cabrol: Search for Alien Life
+#345 – Coffeezilla: SBF, FTX, Fraud, Scams, Fake Gurus, Money, Fame, and Power
+#344 – Noam Brown: AI vs Humans in Poker and Games of Strategic Negotiation
+#343 – Roger Gracie: Greatest Jiu Jitsu Competitor of All Time
+#342 – Todd Howard: Skyrim, Elder Scrolls 6, Fallout, and Starfield
+#339 – Climate Change Debate: Bjørn Lomborg and Andrew Revkin
+#335 – Fiona Hill: Vladimir Putin and Donald Trump
+#334 – Abbas Amanat: Iran Protests, Mahsa Amini, History, CIA &amp; Nuclear Weapons
+#329 – Kate Darling: Social Robots, Ethics, Privacy and the Future of MIT
+#325 – Michael Levin: Biology, Life, Aliens, Evolution, Embryogenesis &amp; Xenobots
+#324 – Daniel Negreanu: Poker
+#322 – Rana el Kaliouby: Emotion AI, Social Robots, and Self-Driving Cars
+#318 – Nick Lane: Origin of Life, Evolution, Aliens, Biology, and Consciousness
+#317 – John Vervaeke: Meaning Crisis, Atheism, Religion &amp; the Search for Wisdom
+#316 – Noam Chomsky: Putin, Ukraine, China, and Nuclear War
+#311 – Magatte Wade: Africa, Capitalism, Communism, and the Future of Humanity
+#308 – Ryan Graves: UFOs, Fighter Jets, and Aliens
+#306 – Oriol Vinyals: Deep Learning and Artificial General Intelligence
+#305 – Martin Rees: Black Holes, Alien Life, Dark Matter, and the Big Bang
+#302 – Richard Haier: IQ Tests, Human Intelligence, and Group Differences
+#301 – Jack Barsky: KGB Spy
+#299 – Demis Hassabis: DeepMind
+#298 – Susan Cain: The Power of Introverts and Loneliness
+#297 – Jonathan Reisman: The Human Body - From Sex &amp; Sperm to Hands &amp; Heart
+#293 – Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth
+#292 – Robin Hanson: Alien Civilizations, UFOs, and the Future of Humanity
+#291 – Jonathan Haidt: The Case Against Social Media
+#288 – Sarma Melngailis: Bad Vegan
+#286 – Oliver Stone: Vladimir Putin and War in Ukraine
+#285 – Glenn Loury: Race, Racism, Identity Politics, and Cancel Culture
+#284 – Saifedean Ammous: Bitcoin, Anarchy, and Austrian Economics
+#283 – Chris Mason: Space Travel, Colonization, and Long-Term Survival in Space
+#280 – Cristiano Amon: Qualcomm CEO
+#279 – Alien Debate: Sara Walker and Lee Cronin
+#278 – Skye Fitzgerald: Hunger, War, and Human Suffering
+#277 – Andrew Huberman: Focus, Stress, Relationships, and Friendship
+#276 – Michael Saylor: Bitcoin, Inflation, and the Future of Money
+#275 – Rick Rubin: Legendary Music Producer
+#274 – Karl Deisseroth: Depression, Schizophrenia, and Psychiatry
+#273 – Chris Blattman: War and Violence
+#272 – Brett Johnson: US Most Wanted Cybercriminal
+#271 – Ariel Ekblaw: Space Colonization and Self-Assembling Space Megastructures
+#269 – Lee Cronin: Origin of Life, Aliens, Complexity, and Consciousness
+#266 – Nicole Perlroth: Cybersecurity and the Weapons of Cyberwar
+#265 – Devon Larratt: Arm Wrestling
+#263 – John Abramson: Big Pharma
+#262 – Garry Nolan: UFOs and Aliens
+#261 – Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind
+#258 – Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning
+#257 – Brian Keating: Cosmology, Astrophysics, Aliens &amp; Losing the Nobel Prize
+#254 – Jay Bhattacharya: The Case Against Lockdowns
+#251 – Ray Dalio: Money, Power, and the Collapse of Empires
+#250 – Peter Wang: Python and the Source Code of Humans, Computers, and Reality
+#249 – Albert Bourla: Pfizer CEO
+#247 – Jamie Metzl: Lab Leak Theory
+#246 – Peter Woit: Theories of Everything and Why String Theory is Not Even Wrong
+#245 – Tom Brands: Iowa Wrestling
+#244 – Robert Crews: Afghanistan, Taliban, Bin Laden, and War in the Middle East
+#243 - Kevin Systrom: Instagram
+#241 - Boris Sofman: Waymo, Cozmo, Self-Driving Cars, and the Future of Robotics
+#238 – Francis Collins: National Institutes of Health (NIH)
+#237 – Steve Viscelli: Trucking and the Decline of the American Dream
+#236 – Jimmy Pedro: Judo and the Forging of Champions
+#235 – Michael Mina: Rapid COVID Testing
+#234 – Stephen Wolfram: Complexity and the Fabric of Reality
+#233 – Carl Hart: Heroin, Cocaine, MDMA, Alcohol &amp; the Role of Drugs in Society
+#232 – Brian Greene: Quantum Gravity, Big Bang, Aliens, Life, Death, and Meaning
+#231 – Alex Gladstein: Bitcoin, Authoritarianism, and Human Rights
+#230 – Kelsi Sheren: War, Artillery, PTSD, and Love
+#229 – Richard Wrangham: Role of Violence, Sex, and Fire in Human Evolution
+#228 – RZA: Wu-Tang Clan, Kung Fu, Chess, God, Life, and Death
+#226 – Jo Boaler: How to Learn Math
+#225 – Jeffrey Shainline: Neuromorphic Computing and Optoelectronic Intelligence
+#224 – Travis Oliphant: NumPy, SciPy, Anaconda, Python &amp; Scientific Programming
+#223 – Travis Stevens: Judo, Olympics, and Mental Toughness
+#222 – Jay McClelland: Neural Networks and the Emergence of Cognition
+#221 – Douglas Lenat: Cyc and the Quest to Solve Common Sense Reasoning in AI
+#220 – Niels Jorgensen: New York Firefighters and the Heroes of 9/11
+#219 – Donald Knuth: Programming, Algorithms, Hard Problems &amp; the Game of Life
+#218 – Jaron Lanier: Virtual Reality, Social Media &amp; the Future of Humans and AI
+#217 – Rodney Brooks: Robotics
+#216 – Vincent Racaniello: Viruses and Vaccines
+#215 – Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI
+#213 – Barry Barish: Gravitational Waves and the Most Precise Device Ever Built
+#212 – Joscha Bach: Nature of Reality, Dreams, and Consciousness
+#211 – Brian Muraresku: The Secret History of Psychedelics
+#210 – Matt Walker: Sleep
+#208 – Jeff Hawkins: The Thousand Brains Theory of Intelligence
+#207 – Chris Duffin: The Mad Scientist of Strength
+#206 – Ishan Misra: Self-Supervised Deep Learning in Computer Vision
+#205 – Zach Bitter: Ultramarathon Running
+#204 – Cumrun Vafa: String Theory
+#202 – Rick Doblin: Psychedelics
+#201 – Konstantin Batygin: Planet 9 and the Edge of Our Solar System
+#199 – Roger Reaves: Smuggling Drugs for Pablo Escobar and the Medellin Cartel
+#198 – Sara Walker: The Origin of Life on Earth and Alien Worlds
+#197 – Jocko Willink: War, Leadership, and Discipline
+#196 – Yeonmi Park: North Korea
+#195 – Clara Sousa-Silva: Searching for Signs of Life on Venus and Other Planets
+#194 – Bret Weinstein: Truth, Science, and Censorship in the Time of a Pandemic
+#192 – Charles Hoskinson: Cardano
+#190 – Jordan Ellenberg: Mathematics of High-Dimensional Shapes and Geometries
+#189 – David Sinclair: Extending the Human Lifespan Beyond 100 Years
+#188 – Vitalik Buterin: Ethereum 2.0
+#187 – Frank Wilczek: Physics of Quarks, Dark Matter, Complexity, Life &amp; Aliens
+#184 – Katherine de Kleer: Planets, Moons, and Asteroids in Our Solar System
+#183 – Po-Shen Loh: Mathematics, Math Olympiad, Combinatorics &amp; Contact Tracing
+#182 – John Danaher: The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA
+#181 – Sergey Nazarov: Chainlink, Smart Contracts, and Oracle Networks
+#177 – Risto Miikkulainen: Neuroevolution and Evolutionary Computation
+#170 – Ronald Sullivan: The Ideal of Justice in the Face of Controversy and Evil
+#169 – Ryan Hall: Solving Martial Arts from First Principles
+#168 – Silvio Micali: Cryptocurrency, Blockchain, Algorand, Bitcoin, and Ethereum
+#166 – Cal Newport: Deep Work, Focus, Productivity, Email, and Social Media
+#165 – Josh Barnett: Philosophy of Violence, Power, and the Martial Arts
+#164 – Andrew Huberman: Sleep, Dreams, Creativity &amp; the Limits of the Human Mind
+#163 – Eric Weinstein: Difficult Conversations, Freedom of Speech, and Physics
+#162 – Jim Keller: The Future of Computing, AI, Life, and Consciousness
+#161 – Jason Calacanis: Startups, Angel Investing, Capitalism, and Friendship
+#160 – Brendan Eich: JavaScript, Firefox, Mozilla, and Brave
+#157 – Natalya Bailey: Rocket Engines and Electric Spacecraft Propulsion
+#155 – Max Tegmark: AI and Physics
+#154 – Avi Loeb: Aliens, Black Holes, and the Mystery of the Oumuamua
+#153 – Dmitry Korkin: Evolution of Proteins, Viruses, Life, and AI
+#152 – Dan Gable: Olympic Wrestling, Mental Toughness &amp; the Making of Champions
+#148 – Charles Isbell and Michael Littman: Machine Learning and Education
+#147 – Dmitri Dolgov: Waymo and the Future of Self-Driving Cars
+#146 – Michael Mina: Rapid Testing, Viruses, and the Engineering Mindset
+#145 – Matthew Johnson: Psychedelics
+#144 – Michael Littman: Reinforcement Learning and the Future of AI
+#143 – John Clarke: The Art of Fighting and the Pursuit of Excellence
+#142 – Manolis Kellis: Meaning of Life, the Universe, and Everything
+#141 – Erik Brynjolfsson: Economics of AI, Social Networks, and Technology
+#139 – Andrew Huberman: Neuroscience of Optimal Performance
+#137 – Alex Filippenko: Supernovae, Dark Energy, Aliens &amp; the Expanding Universe
+#135 – Charles Isbell: Computing, Interactive AI, and Race in America
+#134 – Eric Weinstein: On the Nature of Good and Evil, Genius and Madness
+#133 – Manolis Kellis: Biology of Disease
+#131 – Chris Lattner: The Future of Computing and Programming Languages
+#130 – Scott Aaronson: Computational Complexity and Consciousness
+#127 – Joe Rogan: Conversations, Ideas, Love, Freedom &amp; The Joe Rogan Experience
+#125 – Ryan Hall: Martial Arts and the Philosophy of Violence, Power, and Grace
+#124 – Stephen Wolfram: Fundamental Theory of Physics, Life, and the Universe
+#123 – Manolis Kellis: Origin of Life, Humans, Ideas, Suffering, and Happiness
+#122 – David Fravor: UFOs, Aliens, Fighter Jets, and Aerospace Engineering
+#120 – François Chollet: Measures of Intelligence
+#119 – David Eagleman: Neuroplasticity and the Livewired Brain
+#118 – Grant Sanderson: Math, Manim, Neural Networks &amp; Teaching with 3Blue1Brown
+#116 – Sara Seager: Search for Planets and Life Outside Our Solar System
+#115 – Dileep George: Brain-Inspired AI
+#114 – Russ Tedrake: Underactuated Robotics, Control, Dynamics and Touch
+#113 – Manolis Kellis: Human Genome and Evolutionary Dynamics
+#112 – Ian Hutchinson: Nuclear Fusion, Plasma Physics, and Religion
+#111 – Richard Karp: Algorithms and Computational Complexity
+#110 – Jitendra Malik: Computer Vision
+#109 – Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming
+#108 – Sergey Levine: Robotics and Machine Learning
+#107 – Peter Singer: Suffering in Humans, Animals, and AI
+#106 – Matt Botvinick: Neuroscience, Psychology, and AI at DeepMind
+#105 – Robert Langer: Edison of Medicine
+#104 – David Patterson: Computer Architecture and Data Storage
+#103 – Ben Goertzel: Artificial General Intelligence
+#101 – Joscha Bach: Artificial Consciousness and the Nature of Reality
+#99 – Karl Friston: Neuroscience and the Free Energy Principle
+#98 – Kate Darling: Emotional Connection Between Humans and Robots
+#97 – Sertac Karaman: Robots That Fly and Robots That Drive
+#96 – Stephen Schwarzman: Going Big in Business, Investing, and AI
+#95 – Dawn Song: Adversarial Machine Learning and Computer Security
+#94 – Ilya Sutskever: Deep Learning
+#93 – Daphne Koller: Biomedicine and Machine Learning
+#92 – Harry Cliff: Particle Physics and the Large Hadron Collider
+#91 – Jack Dorsey: Square, Cryptocurrency, and Artificial Intelligence
+#90 – Dmitry Korkin: Computational Biology of Coronavirus
+#88 – Eric Weinstein: Geometric Unity and the Call for New Ideas, Leaders &amp; Institutions
+#87 – Richard Dawkins: Evolution, Intelligence, Simulation, and Memes
+#85 – Roger Penrose: Physics of Consciousness and the Infinite Universe
+#83 – Nick Bostrom: Simulation and Superintelligence
+#81 – Anca Dragan: Human-Robot Interaction and Reward Engineering
+#80 – Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money
+#79 – Lee Smolin: Quantum Gravity and Einstein’s Unfinished Revolution
+#76 – John Hopfield: Physics View of the Mind and Neurobiology
+#75 – Marcus Hutter: Universal Artificial Intelligence, AIXI, and AGI
+#74 – Michael I. Jordan: Machine Learning, Recommender Systems, and the Future of AI
+#73 – Andrew Ng: Deep Learning, Education, and Real-World AI
+#72 – Scott Aaronson: Quantum Computing
+Vladimir Vapnik: Predicates, Invariants, and the Essence of Intelligence
+Jim Keller: Moore’s Law, Microprocessors, Abstractions, and First Principles
+Cristos Goodrow: YouTube Algorithm
+Paul Krugman: Economics of Innovation, Automation, Safety Nets &amp; Universal Basic Income
+Ayanna Howard: Human-Robot Interaction and Ethics of Safety-Critical Systems
+Daniel Kahneman: Thinking Fast and Slow, Deep Learning, and AI
+Grant Sanderson: 3Blue1Brown and the Beauty of Mathematics
+Stephen Kotkin: Stalin, Putin, and the Nature of Power
+Donald Knuth: Algorithms, TeX, Life, and The Art of Computer Programming
+Melanie Mitchell: Concepts, Analogies, Common Sense &amp; Future of AI
+Jim Gates: Supersymmetry, String Theory and Proving Einstein Right
+Sebastian Thrun: Flying Cars, Autonomous Vehicles, and Education
+Rohit Prasad: Amazon Alexa and Conversational AI
+Judea Pearl: Causal Reasoning, Counterfactuals, Bayesian Networks, and the Path to AGI
+Ray Dalio: Principles, the Economic Machine, Artificial Intelligence &amp; the Arc of Life
+Noam Chomsky: Language, Cognition, and Deep Learning
+Gilbert Strang: Linear Algebra, Deep Learning, Teaching, and MIT OpenCourseWare
+Dava Newman: Space Exploration, Space Suits, and Life on Mars
+Michael Kearns: Algorithmic Fairness, Bias, Privacy, and Ethics in Machine Learning
+Sean Carroll: Quantum Mechanics and the Many-Worlds Interpretation
+Garry Kasparov: Chess, Deep Blue, AI, and Putin
+Michio Kaku: Future of Humans, Aliens, Space Travel &amp; Physics
+Vijay Kumar: Flying Robots
+Paola Arlotta: Brain Development from Stem Cell to Organoid
+Gustav Soderstrom: Spotify
+Chris Urmson: Self-Driving Cars at Aurora, Google, CMU, and DARPA
+Kai-Fu Lee: AI Superpowers – China and Silicon Valley
+Sean Carroll: The Nature of the Universe, Life, and Intelligence
+Jeff Hawkins: Thousand Brains Theory of Intelligence
+Rosalind Picard: Affective Computing, Emotion, Privacy, and Health
+Tomaso Poggio: Brains, Minds, and Machines
+Tuomas Sandholm: Poker and Game Theory
+Juergen Schmidhuber: Godel Machines, Meta-Learning, and LSTMs
+Pieter Abbeel: Deep Reinforcement Learning
+Yoshua Bengio: Deep Learning
+Steven Pinker: AI in the Age of Reason
+David Ferrucci: IBM Watson, Jeopardy &amp; Deep Conversations with AI
+Peter Norvig: Artificial Intelligence: A Modern Approach
+Gary Marcus: Toward a Hybrid of Deep Learning and Symbolic AI
+Leonard Susskind: Quantum Mechanics, String Theory, and Black Holes
+Regina Barzilay: Deep Learning for Cancer Diagnosis and Treatment
+François Chollet: Keras, Deep Learning, and the Progress of AI
+Yann LeCun: Deep Learning, Convolutional Neural Networks, and Self-Supervised Learning
+Jeremy Howard: fast.ai Deep Learning Courses and Research
+Keoki Jackson: Lockheed Martin
+Kevin Scott: Microsoft CTO
+Gavin Miller: Adobe Research
+Rajat Monga: TensorFlow
+Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators
+Oriol Vinyals: DeepMind AlphaStar, StarCraft, Language, and Sequences
+Ian Goodfellow: Generative Adversarial Networks (GANs)
+Greg Brockman: OpenAI and AGI
+Eric Weinstein: Revolutionary Ideas in Science, Math, and Society
+Stuart Russell: Long-Term Future of AI
+Jeff Atwood: Stack Overflow and Coding Horror
+Vladimir Vapnik: Statistical Learning
+Can Computers Be Mathematicians?
+How Do Mathematicians Know Their Proofs Are Correct?
