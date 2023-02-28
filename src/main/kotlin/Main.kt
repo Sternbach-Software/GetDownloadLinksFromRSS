@@ -30,6 +30,7 @@ fun main(args: Array<String>) {
                 println(node.tagName)
                 println(node.nodeValue)
                 println(node.textContent)
+                println(node.attributes)
                 when(node.tagName) {
                     "title" -> title = node.textContent
                     "enclosure" -> link = node.getAttribute("url")
