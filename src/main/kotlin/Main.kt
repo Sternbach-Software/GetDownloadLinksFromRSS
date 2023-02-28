@@ -14,6 +14,15 @@ import javax.xml.parsers.DocumentBuilderFactory
 
 
 fun main(args: Array<String>) {
+    parseLexFridmanRSS()
+    println("Hello World!")
+
+    // Try adding program arguments via Run/Debug configuration.
+    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
+    println("Program arguments: ${args.joinToString()}")
+}
+
+private fun parseLexFridmanRSS() {
     val playlists = Files.readAllLines(Path.of("MyPlaylists.txt")).toMutableList()
     println(playlists)
     val feedTitleToLink = HashMap<String, String>(playlists.size)
@@ -26,12 +35,12 @@ fun main(args: Array<String>) {
         var title: String? = null
         var link: String? = null
         item.childNodes.loopWhile { node, i ->
-            if(node is Element) {
+            if (node is Element) {
                 println(node.tagName)
                 println(node.nodeValue)
                 println(node.textContent)
                 println(node.attributes)
-                when(node.tagName) {
+                when (node.tagName) {
                     "title" -> title = node.textContent
                     "enclosure" -> link = node.getAttribute("url")
                 }
@@ -42,19 +51,19 @@ fun main(args: Array<String>) {
         println(link)
         val inPodcasts = title!! in playlists
         println(inPodcasts)
-        if(inPodcasts) feedTitleToLink[title!!] = link!!
+        if (inPodcasts) feedTitleToLink[title!!] = link!!
     }
     val dir = File(System.getProperty("user.dir"))
-    val mp3sIndir = dir.walk().mapNotNull { if(it.name.endsWith(".mp3")) it.name.substringBefore("-") else null }.toList().sorted()
+    val mp3sIndir =
+        dir.walk().mapNotNull { if (it.name.endsWith(".mp3")) it.name.substringBefore("-") else null }.toList().sorted()
     println("MP3s in dir: $mp3sIndir")
-    feedTitleToLink.filterNot {/*already downloaded*/ it.key.substring(1,4) in mp3sIndir }.entries.also { println("Entries: $it") }.parallelStream().forEach {
+    feedTitleToLink.filterNot {/*already downloaded*/ it.key.substring(
+        1,
+        4
+    ) in mp3sIndir
+    }.entries.also { println("Entries: $it") }.parallelStream().forEach {
         downloadFile(it.value, it.key + ".mp3", dir)
     }
-    println("Hello World!")
-
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
 }
 
 private fun downloadFile(url: String, filename: String, dir: File) {
